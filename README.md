@@ -109,7 +109,7 @@ The application includes validation to prevent incorrect inventory operations.
 
 ### Searching for a nonexistent item
 
-<img src="images/erro_procurainsumo.png" alt="Search item error">
+<img src="images/erro_procurarinsumo.png" alt="Search item error">
 
 ---
 
