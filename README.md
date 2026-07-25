@@ -97,7 +97,7 @@ The application includes validation to prevent incorrect inventory operations.
 
 ### Trying to consume unavailable quantity
 
-<img src="images/erro_concumirinsumo.png" alt="Insufficient stock error">
+<img src="images/erro_consumirinsumo.png" alt="Insufficient stock error">
 
 ---
 
